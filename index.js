@@ -43,3 +43,4 @@ let heap = new Stack()
 heap.push("munashe")
 heap.push("madhuna")
 console.log(heap)
+
